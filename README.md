@@ -3,13 +3,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [onuryuksekkaya.com](onuryuksekkaya.com)
-
-- 📝 I regularly write articles on [onuryuksekkaya.com](onuryuksekkaya.com)
-
 - 📫 How to reach me **iletisim@onuryuksekkaya.com**
 
-- 📄 Know about my experiences [onuryuksekkaya.com](onuryuksekkaya.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
